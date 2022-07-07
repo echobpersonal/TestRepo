@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "It's pretty funny" - echo :-]
+=======
+"It's pretty funny" - echo :-]
+>>>>>>> 9857772581c7c6778cf42ae26621b29da45fabfa
